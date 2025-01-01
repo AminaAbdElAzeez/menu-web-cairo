@@ -261,7 +261,7 @@ footer img {
 }
 @media screen and (max-width: 360px) {
   .menu-item-list li .menu-item-new {
-    right: 82px;
+    right: 88px;
   }
   .menu-item-list li .menu-item-new.po2lz {
     right: 30px;
@@ -269,11 +269,12 @@ footer img {
   .menu-item-list li .menu-item-new > span:first-child {
     padding: 4px 7px;
     font-size: 9px;
-    margin-right: 0px;
+    margin-right: 7px;
     display: inline-block;
   }
   .menu-item-list li .menu-item-new span:nth-child(2) {
-    width: 30px;
+    width: 40px;
+
     display: inline-block;
     vertical-align: middle;
   }
@@ -291,7 +292,7 @@ footer img {
 @media screen and (max-width: 350px) {
   .menu-item-list li .menu-item-new.znger {
     width: 22px;
-    right: 125px;
+    right: 140px;
   }
 }
 @media screen and (max-width: 340px) {
